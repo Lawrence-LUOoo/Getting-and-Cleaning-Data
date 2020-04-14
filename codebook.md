@@ -22,6 +22,8 @@ The raw datasets are combined into a single dataset, then cleaned up into tidy d
 
 ### The measurements are classified in two domains:
 
+All measurements are floating-point values, which are ranged betweem -1 and 1.
+
 #### Time-domain signals
 
 - Average time-domain body acceleration in the X, Y and Z directions:
